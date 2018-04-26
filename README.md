@@ -8,6 +8,10 @@ Mostra informações sobre os passageiros do Titanic, relacionados sobre os sobr
 
 * 26/04/2018
 
+  * Adicionado novo gráfico Survived x Dead x Age, que foi sugestão dos itens:
+    * `Com relação aos sobreviventes, qual a idade média dos mortos e dos sobreviventes?`
+    * `* Com relação aos sobreviventes, qual a idade média dos mortos e dos sobreviventes?`
+  * Layout do dashboard e story ajustado para `automático`. Para aproveitar melhor a área disponível.
   * Para resolver `No gráfico de bolhas sobreviventes e mortos por classe, algumas não mostram a porcentagem.`, removi a label de `survived/dead` dos círculos, identificando isso através das cores, com isso foi ganho mais espaço na área possibilitando a exibição.
 
 * 22/04/2018 - O dashboard sobre o embarque estava com muitos dados. Então passei os dados sobre as classes sociais para outro dashboard.
@@ -21,7 +25,9 @@ Mostra informações sobre os passageiros do Titanic, relacionados sobre os sobr
 ## Comentários
 
 * 26/04/2018
+
   * Ao filtrar por sobreviventes e mortos, os gráficos dessa relação com gênero e classe ficam 100%.
+
 * 25/04/2018
   * Com relação aos sobreviventes, qual a idade média dos mortos e dos sobreviventes?
   * Poderia ter um gráfico com a relação de mortos e sobreviventes com relação as classes e seus preços.

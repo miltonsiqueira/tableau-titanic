@@ -17,4 +17,5 @@ Mostra informações sobre os passageiros do Titanic, relacionados sobre os sobr
 
 ## Recursos
 
-[Titanic Data Set](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv)
+[Titanic Data Set][latitude-longitude.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/latitude-longitude.csv)
+[titanic-data.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/titanic-data.csv)

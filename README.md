@@ -8,6 +8,10 @@ Mostra informações sobre os passageiros do Titanic, relacionados sobre os sobr
 
 * 26/04/2018
 
+  * Adicionado filtro de cidade de embarque no dashboard de sobreviventes.
+  * Cor padrão para o gênero modificado.
+  * Títulos revisados.
+  * Cor azul adotada para os sobreviventes, inventendo com o vítimas, que agora passa a ser laranja, dando maior destaque as vítimas.
   * Adicionado novo gráfico Survived x Dead x Age, que foi sugestão dos itens:
     * `Com relação aos sobreviventes, qual a idade média dos mortos e dos sobreviventes?`
     * `* Com relação aos sobreviventes, qual a idade média dos mortos e dos sobreviventes?`

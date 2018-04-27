@@ -1,5 +1,9 @@
 # Tableau Titanic
 
+[Titanic - Tableau - Última versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic_538/Story).
+
+[Titanic - Tableau - Primeira versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic_1st_version/Story).
+
 ## Resumo
 
 Analisa os dados demográficos sobre os passageiros do Titanic, demonstrando informações sobre os lugares de embarque, classes, custo da passagem, sobreviventes e vítimas.
@@ -56,7 +60,10 @@ Para a conclusão, realizei as comparações entre sobreviventes e mortos, desta
 
 ## Recursos
 
-[Titanic - Tableau - Última versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic/Story)
-[Titanic - Tableau - Primeira versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic_1st_version/Story)
-[Titanic Data Set][latitude-longitude.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/latitude-longitude.csv)
-[titanic-data.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/titanic-data.csv)
+[Titanic - Tableau - Última versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic_538/Story).
+
+[Titanic - Tableau - Primeira versão](https://public.tableau.com/profile/milton.siqueira#!/vizhome/Titanic_1st_version/Story).
+
+[Titanic Data Set][latitude-longitude.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/latitude-longitude.csv).
+
+[titanic-data.csv](https://raw.githubusercontent.com/titomilton/tableau-titanic/master/titanic-data.csv).

@@ -3,7 +3,7 @@
 ## Resumo
 
 Analisa os dados demográficos sobre os passageiros do Titanic, demonstrando informações sobre os lugares de embarque, classes, custo da passagem, sobreviventes e vítimas.
-Com isso, foi possível traçar o perfil dos sobreviventes, que tinham 35-40 anos, mulheres ou que embarcaram na primeira classe.
+Com isso, foi possível traçar o perfil dos sobreviventes, que crianças, mulheres ou que embarcaram na primeira classe.
 
 ## Design
 
@@ -14,6 +14,10 @@ Na primeira etapa, usei mapas para mostrando os lugares de embarque e populaçã
 Já na segunda, usei um scatter graph para representar os dados contínuos de custo da passagem e população, associando com a classe. Mais uma vez um gráfico de pizza para o gênero e custo de passagem. Gráfico de barras para o embarque e população fazendo uma comparação. E mais uma vez o histograma com a idade e custo de passagem.
 
 Para a conclusão, realizei as comparações entre sobreviventes e mortos, destaco o uso do gráfico de bolhas para representar a relação entre as classes, população, sobreviventes e mortos. Fechando um histograma das idades, onde cada barra mostra a porcentagem de sobreviventes e vítimas.
+
+* 28/04/2018
+
+  * Criado grupo de idade: crianças(0-17), adultos (18-59) e idoso (>60). Fazendo uma relação dele com os sobreviventes e mortos.
 
 * 26/04/2018
 
